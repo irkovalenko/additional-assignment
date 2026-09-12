@@ -1,6 +1,5 @@
 /* ===================================================
-   BONUS ASSIGNMENT: Escape the Evil AI / Ghost
-   Theme: The Haunted Mansion Escape
+    Theme: The Haunted Mansion
    =================================================== */
 
 function invalidInput(message) {
