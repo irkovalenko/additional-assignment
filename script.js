@@ -7,8 +7,6 @@ function invalidInput(message) {
   alert(message || "Invalid choice! Please enter a valid option.");
 }
 
-let replay = confirm("Would you like to play again?");
-
 let tabWasChanged = false;
 
 document.addEventListener("visibilitychange", () => {
